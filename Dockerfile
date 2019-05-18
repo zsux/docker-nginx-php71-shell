@@ -1,4 +1,4 @@
-FROM eagle2019/nginx-php71:2.1
+FROM eagle2019/nginx-php71:2.2
 
 MAINTAINER Barry <dhole.me@gmail.com>
 USER root
